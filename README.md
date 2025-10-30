@@ -39,8 +39,3 @@ Through a guided self-evaluation, the app analyzes your physical, mental, and em
 | Design Framework | Material Design Components |
 
 ---
-
-## 🚀 Setup Guide  
-1. **Clone the Repo**  
-   ```bash
-   git clone https://github.com/your-username/ayurveda-constitution-detector.git
